@@ -1,2 +1,2 @@
-# drinov-orthography-for-post-ocr-correction
-A small benchmark dataset, which contains documents in the Drinov orthography named the Drinov Orthography for Post-OCR Correction (DOPOC) dataset.
+# Drinov Orthography for Post-Ocr Correction (DOPOC) dataset
+A small benchmark dataset, which contains documents in the Bulgarian Drinov orthography - the Drinov Orthography for Post-OCR Correction dataset. The corpus was created by annotating a historical newspaper collection provided to us by the [National Library ``Ivan Vazov'' (NLIV)](https://digital.libplovdiv.com/en) in Plovdiv, Bulgaria. We consider printed versions of these documents, which we manually annotate and align at the character level similarly to the [annotated dataset](https://zenodo.org/records/3515403) from ICDAR 2019.
